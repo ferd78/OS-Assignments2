@@ -1,4 +1,4 @@
-# To run use the command 
+# To run the file use:
 ``` 
 python task1.py <initial position> <request file> 
 ```
